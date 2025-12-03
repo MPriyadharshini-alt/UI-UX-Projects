@@ -1,3 +1,5 @@
+### Artist-Portfolio
+
 This is my first proper UI/UX design project, a single-frame artist portfolio.  
 When I started, I had almost no idea how to use Figma, and every attempt felt like chaos.
 
