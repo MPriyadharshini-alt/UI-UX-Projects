@@ -12,6 +12,23 @@ Even after multiple drafts, restarting, and questioning choices, the final desig
 ### Tools Used
 Figma
 
+### Preview
+### Home
+![Home](1-Home.png)
+
+### Destinations
+![Destinations](2-Destinations.png)
+
+### Packages
+![Packages](3-packages.png)
+
+### About
+![About](4-about.png)
+
+### Contact
+![Contact](5-contact.png)
+
+
 ### Figma Link
 https://www.figma.com/design/DCOrHNHfltHoQ421abd25c/Travel-Agency-Website?node-id=0-1&t=17Tz9gPP2SJX476i-1
 
