@@ -1,4 +1,4 @@
-# Travel Agency Website – UI/UX Design
+## Travel Agency Website – UI/UX Design
 
 This project is a multi-frame travel website I designed in Figma.  
 By the time I started this one, I felt a little more familiar moving between screens and frames, but it still challenged me.  
